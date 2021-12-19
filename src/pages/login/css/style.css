@@ -1,0 +1,21 @@
+.mt-20 {
+    margin-top: 20px;
+}
+
+.logoImg{
+    height: 240px;
+    width: 250px;
+}
+
+.imgDiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.heading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #89C343;
+}

@@ -1,0 +1,10 @@
+.logooImg{
+    height: 170px;
+    width: 180px;
+}
+
+.imagDiv{
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+}
